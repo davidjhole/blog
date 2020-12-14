@@ -10,4 +10,4 @@ permalink: /about/
 
 My name is David Hole and i have been working in the tech industry for over 20 years, most of them have been in a sysadmin/IT Manager/OPS role but for the last few years i have been working with the cloud specifically Azure.
 
-Azure has helped me rediscover my love for tech with it's ever changing ecosystem there is always something new to try or learn, while this is a challenge to keep up with everything it also excites me to learn more.
+Azure has helped me rediscover my love for tech with it's ever changing ecosystem there is always something new to try or learn, while this is a challenge to keep up to date with all the changes it also excites me to learn more.
