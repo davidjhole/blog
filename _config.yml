@@ -33,6 +33,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
+
 # permalink settings for the url
 permalink: /:year/:month/:day/:title/
 # Exclude from processing.
