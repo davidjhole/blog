@@ -29,7 +29,7 @@ twitter_username: davidjhole
 github_username:  davidjhole
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
